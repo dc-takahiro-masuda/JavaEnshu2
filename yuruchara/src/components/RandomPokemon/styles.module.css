@@ -1,0 +1,59 @@
+.container {
+    margin-right: 10px;
+    width:300px;
+    text-align:center;
+    padding:20px;
+    border:2px solid gray;
+}
+
+.normal {
+    background-color: rgb(246, 246, 246);
+}
+
+.fighting {
+    background-color:rgb(251, 174, 174);
+}
+
+.water {
+    background-color:rgb(190, 190, 255);
+}
+
+.fire {
+    background-color:rgb(255, 186, 186);
+}
+
+.electric {
+    background-color:rgb(255, 255, 212);
+}
+
+.grass {
+    background-color:rgb(228, 255, 187);
+}
+
+.bug {
+    background-color:rgb(212, 241, 131);
+}
+
+.rock {
+    background-color:rgb(162, 162, 162);
+}
+
+.psychic {
+    background-color:rgb(247, 219, 251);
+}
+
+.ghost {
+    background-color:rgb(218, 186, 251);
+}
+
+.steel {
+    background-color:rgb(212, 212, 212);
+}
+
+.dark {
+    background-color: rgb(127, 114, 114);
+}
+
+.dragon {
+    background-color:rgb(206, 196, 255);
+}
